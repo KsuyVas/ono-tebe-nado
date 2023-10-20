@@ -201,13 +201,14 @@
 }
 
 .card {
+  display: flex; 
+  flex-direction:column;
+  justify-content: space-between;
   height: 100%;
   background-size: 100%;
   background-position-y: center;
   background-repeat: no-repeat;
-  height: 100%; display: flex; flex-direction:column; justify-content: space-between;
-  background-size: 100%;
-}
+  }
 
 .card_type_film {
   background-image: url(../images/card-lot-01.jpg);
