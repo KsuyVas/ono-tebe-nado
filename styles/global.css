@@ -7,7 +7,7 @@
 body {
   min-width: 1100px;
   width: 1440px; /*моя строка, может*/
-  margin: 0;
+  margin: auto;
   font-family: Raleway, sans-serif;
 }
 
